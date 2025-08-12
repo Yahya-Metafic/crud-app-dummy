@@ -1,0 +1,48 @@
+{
+  "navbar": {
+    "heading": "CRUD Application",
+    "logOutBtn": "LOGOUT",
+    "addBtn": "ADD",
+    "language": "Language"
+  },
+  "table": {
+    "heading": {
+      "name": "Name",
+      "company": "Company",
+      "age": "Age",
+      "mobile": "Mobile",
+      "email": "Email",
+      "actions": "Actions"
+    }
+  },
+  "formModal": {
+    "heading": "Member Details",
+    "name": "Name",
+    "company": "Company",
+    "age": "Age",
+    "mobile": "Mobile",
+    "email": "Email",
+    "saveBtn": "SAVE",
+    "error": {
+      "name": "Must be 3 characters long",
+      "company": "Company is required",
+      "age": "Invalid Age",
+      "mobile": "Invalid Mobile Number",
+      "email": "Invalid email address"
+    }
+  },
+  "deleteModal": {
+    "heading": "Confirm Delete",
+    "text": "Are you sure you want to delete? This action cannot be undone.",
+    "cancelBtn": "CANCEL",
+    "deleteBtn": "DELETE"
+  },
+  "login": {
+    "heading": "LOGIN",
+    "username": "usrname",
+    "password": "password",
+    "usernameReq": "Username is required",
+    "passwordReq": "Password is required",
+    "error": "Invalid username or password"
+  }
+}

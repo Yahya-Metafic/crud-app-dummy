@@ -1,0 +1,48 @@
+{
+  "navbar": {
+    "heading": "Aplicación CRUD",
+    "logOutBtn": "CERRAR SESIÓN",
+    "addBtn": "AÑADIR",
+    "language": "Idioma"
+  },
+  "table": {
+    "heading": {
+      "name": "Nombre",
+      "company": "Empresa",
+      "age": "Edad",
+      "mobile": "Móvil",
+      "email": "Correo electrónico",
+      "actions": "Acciones"
+    }
+  },
+  "formModal": {
+    "heading": "Detalles del Miembro",
+    "name": "Nombre",
+    "company": "Empresa",
+    "age": "Edad",
+    "mobile": "Móvil",
+    "email": "Correo electrónico",
+    "saveBtn": "GUARDAR",
+    "error": {
+      "name": "Debe tener al menos 3 caracteres",
+      "company": "La empresa es obligatoria",
+      "age": "Edad no válida",
+      "mobile": "Número de móvil no válido",
+      "email": "Dirección de correo electrónico no válida"
+    }
+  },
+  "deleteModal": {
+    "heading": "Confirmar Eliminación",
+    "text": "¿Estás seguro de que deseas eliminar? Esta acción no se puede deshacer.",
+    "cancelBtn": "CANCELAR",
+    "deleteBtn": "ELIMINAR"
+  },
+  "login": {
+    "heading": "INICIAR SESIÓN",
+    "username": "usuario",
+    "password": "contraseña",
+    "usernameReq": "Se requiere nombre de usuario",
+    "passwordReq": "Se requiere contraseña",
+    "error": "Nombre de usuario o contraseña no válidos"
+  }
+}
